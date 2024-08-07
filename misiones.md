@@ -1,3 +1,4 @@
 # Misiones
 
-* Investigar los planes de Dr. Dom
+* Investigar los planes de Dr. Dom.
+* Capturar a Red Skull.
